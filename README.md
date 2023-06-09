@@ -23,9 +23,7 @@
 - 客戶（customer）：客戶ID（主鍵）
 - 庫存（inventory）：庫存ID（主鍵），商店ID，產品ID，製造商ID
 - 產品（product）：產品ID（主鍵），製造商ID，類別ID
-- 製造商（manufacturer）：製造商
-
-ID（主鍵）
+- 製造商（manufacturer）：製造商ID（主鍵）
 - 訂單（order）：訂單ID（主鍵），客戶ID，產品ID
 - 貨運人（carrier）：運輸公司ID（主鍵），訂單ID
 - 銷售額（sale）：銷售ID（主鍵），產品ID，類別ID
