@@ -1,11 +1,4 @@
 -- phpMyAdmin SQL Dump
--- version 5.2.1
--- https://www.phpmyadmin.net/
---
--- 主機： 140.127.74.226
--- 產生時間： 2023-06-09 10:11:13
--- 伺服器版本： 10.11.3-MariaDB
--- PHP 版本： 8.2.4
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
